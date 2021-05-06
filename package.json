@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-genterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natasharrison/portfolio-genterator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natasharrison/portfolio-genterator/issues"
+  },
+  "homepage": "https://github.com/natasharrison/portfolio-genterator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
